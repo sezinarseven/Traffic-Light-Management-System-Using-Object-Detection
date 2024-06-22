@@ -12,6 +12,6 @@ This repository contains code for optimizing traffic light durations on Bağdat 
 <hr>
 
 https://github.com/sezinarseven/Traffic-Light-Management-System-Using-Object-Detection/assets/88224304/4de7e079-6e9b-44d8-9739-b149cde39bf0
-<hr>
+
 <br>
 <br>
