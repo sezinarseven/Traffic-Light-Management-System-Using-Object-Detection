@@ -2,8 +2,8 @@ import os
 import time
 import cv2
 from app.detector.detection_yolo import Yolov7Detector
-from car_counter_class import CarCounter
-from table_class import Plotter
+from app.car_counter_class import CarCounter
+from app.table_class import Plotter
 
 if __name__ == "__main__":
     save = False # If you want to save the output images, set this to True
